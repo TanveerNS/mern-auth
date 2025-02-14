@@ -72,6 +72,7 @@ This project implements authentication with JWT (JSON Web Tokens) for secure API
 │
 ├── .gitignore                   # Git ignore file
 └── README.md                    # Project readme
+```
 
 ## Backend Setup
 
