@@ -85,11 +85,15 @@ cd mern-auth/backend
 
 2. Install backend dependencies:
 
+```plaintext
 npm install
+```
 
 3. Run the backend server:
 
+```plaintext
 npm start
+```
 
 The backend will now be running on http://localhost:5000.
 
@@ -97,16 +101,20 @@ The backend will now be running on http://localhost:5000.
 
 1. Navigate to the frontend folder:
 
+```plaintext
 cd frontend
+```
 
 2. Install frontend dependencies:
 
-Install frontend dependencies:
-
+```plaintext
 npm install
+```
 
 Run the frontend development server:
 
+```plaintext
 npm start
+```
 
 The frontend will now be running on http://localhost:3000.
