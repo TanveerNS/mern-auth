@@ -78,8 +78,10 @@ This project implements authentication with JWT (JSON Web Tokens) for secure API
 
 1. Clone the repository:
 
+```plaintext
 git clone https://github.com/TanveerNS/mern-auth.git
 cd mern-auth/backend
+```
 
 2. Install backend dependencies:
 
